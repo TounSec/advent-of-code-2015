@@ -1,0 +1,6 @@
+[package]
+name = "day5_doesnt_he_have_inter_elves_for_this_part2"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
