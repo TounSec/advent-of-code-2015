@@ -1,0 +1,7 @@
+[package]
+name = "day2_i_was_told_there_would_be_no_math_part2"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+num = "0.4.3"

@@ -1,0 +1,7 @@
+[package]
+name = "aoc_2015"
+version = "0.1.0"
+edition = "2024"
+
+[workspace]
+members = ["day1_not_quite_lisp_part1", "day1_not_quite_lisp_part2", "day2_i_was_told_there_would_be_no_math_part1", "day2_i_was_told_there_would_be_no_math_part2", "day3_perfectly_spherical_houses_in_a_vacuum_part1", "day3_perfectly_spherical_houses_in_a_vacuum_part2"]

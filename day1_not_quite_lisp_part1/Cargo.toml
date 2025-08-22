@@ -1,0 +1,4 @@
+[package]
+name = "day1_not_quite_lisp_part1"
+version = "0.1.0"
+edition = "2024"

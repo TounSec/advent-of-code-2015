@@ -1,0 +1,6 @@
+[package]
+name = "day1_not_quite_lisp_part2"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
