@@ -1,0 +1,6 @@
+[package]
+name = "day6_probably_a_fire_hazard_part2"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

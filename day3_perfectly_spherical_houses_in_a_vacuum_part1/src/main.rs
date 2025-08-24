@@ -53,6 +53,7 @@ impl TryFrom<char> for Direction {
         }
     }
 }
+
 struct Delivery {
     location: (i32, i32),
     visited: HashSet<(i32, i32)>,
