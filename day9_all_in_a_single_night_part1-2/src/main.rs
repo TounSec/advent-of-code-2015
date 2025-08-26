@@ -108,7 +108,7 @@ impl Graph {
         let cities = self.cities();
         let mut used = vec![false; cities.len()];
         let mut current: Vec<String> = Vec::new();
-        let mut best = 0u32;
+        let mut best = u32::MIN;
 
         fn backtrack(
             graph: &Graph,
