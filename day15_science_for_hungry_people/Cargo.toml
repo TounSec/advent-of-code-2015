@@ -1,0 +1,6 @@
+[package]
+name = "day15_science_for_hungry_people"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
